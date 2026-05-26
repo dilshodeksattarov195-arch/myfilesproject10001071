@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsuerify",
+        "uuid": 1398726,
+        "checksum": "nbb506i"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
